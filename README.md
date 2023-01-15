@@ -1,4 +1,4 @@
-# ENGL-490
+# Some Digital Humanities experiments (text mining)
 
 ## Summary
 - logistic_regression_NYT: comparing key words (main features) in Reddit news posts and articles from the New York Times
