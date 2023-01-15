@@ -1,6 +1,6 @@
 # ENGL-490
 
 ## Summary
-- TEXT_MINING_9A_RUETAS.ipynb: comparing significant words in Reddit news posts and articles from the New York Times
-- TEXT_MINING_10A_RUETAS.ipynb: LDA (Latent Dirichlet Allocation) topic modeling on Goodreads reviews
-- TEXT_MINING_11A_RUETAS.ipynb: Word2vec on Twitter tweets
+- logistic_regression_NYT: comparing key words (main features) in Reddit news posts and articles from the New York Times
+- topic_modelling_goodreads_reviews: LDA (Latent Dirichlet Allocation) topic modeling on Goodreads reviews
+- word2vec_tweets: converting political Tweets to vectors to finding word associations
